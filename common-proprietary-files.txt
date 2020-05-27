@@ -264,6 +264,7 @@ bin/qmuxd:vendor/bin/qmuxd
 bin/rfs_access:vendor/bin/rfs_access
 bin/rmt_storage:vendor/bin/rmt_storage
 vendor/lib/libril-qcril-hook-oem.so
+lib/libprotobuf-cpp-full.so
 
 # Sensors
 lib/hw/sensors.msm8974.so:vendor/lib/hw/sensors.vendor.msm8974.so
